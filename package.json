@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/designcourse/toolpackage.git"
+    "url": "git+https://github.com/krishnachaitanya99/toolpackage.git"
   },
   "keywords": [
     "shadows"
   ],
-  "author": "Gary Simon",
+  "author": "kpandalaneni",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/designcourse/toolpackage/issues"
+    "url": "https://github.com/krishnachaitanya99/toolpackage/issues"
   },
-  "homepage": "https://github.com/designcourse/toolpackage#readme"
+  "homepage": "https://github.com/krishnachaitanya99/toolpackage#readme"
 }
